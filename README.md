@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @RobertaReis79
+- 👀 I’m interested in learning Data Visualization Tools and Web scraping techniques 
+- 🌱 I’m currently learning Data Science foundations
+- 💞️ I’m looking to collaborate on Costumer experience analyses 
+- 📫 My e-mail is roberta.andrade@nissan.com.br
